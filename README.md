@@ -22,6 +22,6 @@ To run eslint ``` npm run lint ```
 
 ### Additional info
 
-nvm: 0.32.1
-node: 6.9.1
-npm: 3.10.8
+- nvm: 0.32.1
+- node: 6.9.1
+- npm: 3.10.8
