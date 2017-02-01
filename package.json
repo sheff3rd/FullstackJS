@@ -1,17 +1,22 @@
 {
   "name": "FullstackJS",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sheff3rd/FullstackJS"
+  },
   "author": "Sheff3rd",
   "license": "ISC",
   "dependencies": {
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
