@@ -21,11 +21,7 @@ Open 'http://localhost:3000/' in your browser!
 To run eslint ``` npm run lint ```
 
 ### Additional info
-``` nvm --version ```
-0.32.1
 
-``` node -v ```
-6.9.1
-
-``` npm -v ```
-3.10.8
+nvm: 0.32.1
+node: 6.9.1
+npm: 3.10.8
